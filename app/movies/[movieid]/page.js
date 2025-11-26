@@ -212,7 +212,7 @@ export default function Page() {
 
         }
     }
-
+    document.title=show.title;
     if (loading) {
         return (
             <div className='w-[80%] mx-auto md:mt-32 max-md:mt-16'>
