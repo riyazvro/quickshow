@@ -39,7 +39,7 @@ export default function Page() {
                 }
 
                 setshow(data)
-                document.title=show.title
+                
 
 
                 // Find trailer
